@@ -1,3 +1,4 @@
+#download models in link = https://drive.google.com/drive/folders/1NRKtjBsHG1WSWsK65BULYDfAgu7F9LSb?usp=sharing
 # SIMPLE FACENET
 Video step by step: https://www.youtube.com/watch?v=-8jTTeXzfFc&list=PLUzMg0FYFJETawSkez0b9C41ByOo6_N5L&index=3
 
