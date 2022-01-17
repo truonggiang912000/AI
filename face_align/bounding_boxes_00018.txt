@@ -1,0 +1,36 @@
+face_align\cristiano_ronaldo\7 su that it biet ve Ronaldo.png 282 10 429 186
+face_align\cristiano_ronaldo\a1-1623021836006.png 521 53 803 391
+face_align\cristiano_ronaldo\abc.png 121 0 194 78
+face_align\cristiano_ronaldo\CR-1631402073570.png 312 195 468 384
+face_align\cristiano_ronaldo\cristiano-ronaldo-nations-league-1200x700-15605556325522018215593-crop-1622762075691274255505.png 260 21 377 161
+face_align\cristiano_ronaldo\cristiano-ronaldo-real-madrid-gallery-3_1-960x640.png 315 0 440 168
+face_align\cristiano_ronaldo\Cristiano_Ronaldo_2018.png 128 80 407 446
+face_align\cristiano_ronaldo\images (1).png 100 0 178 82
+face_align\cristiano_ronaldo\images (2).png 99 5 182 98
+face_align\cristiano_ronaldo\images.png 123 0 211 103
+face_align\cristiano_ronaldo\juventus-vs-lyon-2.png 377 64 585 344
+face_align\cristiano_ronaldo\ro.png 191 46 375 271
+face_align\cristiano_ronaldo\ronaldo-031121.png 555 22 666 156
+face_align\cristiano_ronaldo\ronaldo-ehh-AP-8114-1605235811.png 281 54 439 281
+face_align\cristiano_ronaldo\ronaldo-hoi-han-khi-roi-real-madrid1575955497.png 515 49 717 303
+face_align\cristiano_ronaldo\Screenshot-2022-01-04-at-03-35-6160-8499-1641243167.png 579 113 786 380
+face_align\cristiano_ronaldo\tieu-su-ronaldo.png 184 73 391 331
+face_align\messi\15-72.png 804 140 1117 638
+face_align\messi\2.png 124 31 348 327
+face_align\messi\3173693-65029308-2560-1440.png 532 33 674 222
+face_align\messi\7172c18ada-jpeg-1625830411-2802-1625830493.png 770 124 1109 579
+face_align\messi\cac-kieu-toc-dep-cua-messi-2018.png 88 101 385 478
+face_align\messi\g2-messi.png 426 12 562 191
+face_align\messi\images (1).png 97 1 164 80
+face_align\messi\images.png 131 0 221 106
+face_align\messi\lionel-messi-7th-ballon-dor-1638230138666255803418.png 138 16 237 151
+face_align\messi\lionelmessibarcelona29102020a-1604096516797.png 362 41 535 260
+face_align\messi\lionel_messi-1641132261355.png 319 54 465 245
+face_align\messi\Lionel_Messi_PSG_Champions_League_2021-22.png 581 81 867 496
+face_align\messi\Messi-1628305751733.png 166 43 316 234
+face_align\messi\messi-arghentina-7858-1639709584.png 60 11 171 147
+face_align\messi\messi-deja-barcelona-getty.png 497 42 658 252
+face_align\messi\messi-gia-nhap-psg-6653.png 413 47 680 403
+face_align\messi\messi-jpeg-1626270942-7651-1626270986_680x0.png 230 46 380 243
+face_align\messi\messi-jpeg-1641660431-16416604-4417-5364-1641660535.png 359 58 518 256
+face_align\messi\messi-qbv-2368.png 1020 129 1305 513
